@@ -15,23 +15,23 @@ OPENAI_API_KEY=sk-***
 
 4. Setup a Twilio account and set up Functions:
 
-Transcribe to run on pick up
+	- Transcribe to run on pick up
+	
+	<div style="text-align: center;">
+	        <img src="../images/pick_up.png" width="300">
+	    </a>
+	</div>
 
-<div style="text-align: center;">
-        <img src="../images/pick_up.png" width="300">
-    </a>
-</div>
+	- Respond to run every time the human speaks
 
-Respond to run every time the human speaks
-
-<div style="text-align: center;">
-        <img src="../images/respond_1.png" width="300">
-    </a>
-</div>
-<div style="text-align: center;">
-        <img src="../images/respond_2.png" width="300">
-    </a>
-</div>
+	<div style="text-align: center;">
+	        <img src="../images/respond_1.png" width="300">
+	    </a>
+	</div>
+	<div style="text-align: center;">
+	        <img src="../images/respond_2.png" width="300">
+	    </a>
+	</div>
 
 5. Obtain a Twilio phone number and set the voice configuration
 

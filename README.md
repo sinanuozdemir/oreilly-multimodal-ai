@@ -49,6 +49,11 @@ This project contains several Jupyter notebooks each focusing on a specific topi
 		- [Local](notebooks/using_our_vqa.ipynb)
 		- [Colab](https://colab.research.google.com/drive/16GOBndQuIBO-UfXdpPte-PXaZS2nsW1H?usp=sharing)
 
+3. **A Sample Twilio App for Voice Messaging with AI**
+	- [Check out the README here](flask/README.md)
+
+4. **[(Time Permitting) Multimodal Agents](https://colab.research.google.com/drive/14jAlW2E7ya_aS1M6eUsuHciC1WvLfIif#scrollTo=EV8YKjGmPzqu)**
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
