@@ -41,6 +41,7 @@ This project contains several Jupyter notebooks each focusing on a specific topi
 	- **[Llava](https://colab.research.google.com/drive/1IwNAz1Ee4YUSRNCU-SOsa7FS8Q2vmpoL?usp=sharing)**: Using an open source mult-turn multimodal engine
 
 2. **Visual Q/A**
+	- [Download the data from my Dropbox here](https://www.dropbox.com/scl/fo/w6iyfox8gnflvm7g10n47/AB47L7tNEl2Q8eyemZa2GMA?rlkey=v9s8bv6cmjukykpilzimswar0&st=fbulzw4e&dl=0)
 	- Constructing and Training our model
 		- [Local](notebooks/constructing_a_vqa_system.ipynb)
 		- [Colab](https://colab.research.google.com/drive/1zvbruS1DvFrVgXjNouSrrF9-PphKLWWl?usp=sharing) 
