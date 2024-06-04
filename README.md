@@ -1,6 +1,6 @@
 # Multimodal AI Essentials
 
-Welcome to the "[Retrieval-Augmented Generation (RAG) and LLMs](https://learning.oreilly.com/live-events/retrieval-augmented-generation-rag-and-llms/0790145078618/0790145078600)" code repository! In this repo, we begin to understand how to augment large language models with real-time data for dynamic, context-aware apps.
+Welcome to the "[Multimodal AI Essentials](https://www.oreilly.com/live-events/multimodal-ai-essentials/0642572002285)" code repository! In this repo, we will learn how multimodal AI merges text, image, and audio for smarter models.
 
 Much of the code in these sessions will be featured in the 2nd edition of [my latest book on LLMs](https://www.amazon.com/quick-start-guide-language-models/dp/0138199191):
 
@@ -11,7 +11,6 @@ Much of the code in these sessions will be featured in the 2nd edition of [my la
 </div>
 
 so if you're itching for more, check it out and please leave a rating/review to tell me what you thought :)
-
 
 For even more, check out my [Expert Playlist](https://learning.oreilly.com/playlists/2953f6c7-0e13-49ac-88e2-b951e11388de)!
 
@@ -42,9 +41,13 @@ This project contains several Jupyter notebooks each focusing on a specific topi
 	- **[Llava](https://colab.research.google.com/drive/1IwNAz1Ee4YUSRNCU-SOsa7FS8Q2vmpoL?usp=sharing)**: Using an open source mult-turn multimodal engine
 
 2. **Visual Q/A**
-	- [Constructing and Training our model](https://colab.research.google.com/drive/1zvbruS1DvFrVgXjNouSrrF9-PphKLWWl?usp=sharing) 
+	- Constructing and Training our model
+		- [Local](notebooks/constructing_a_vqa_system.ipynb)
+		- [Colab](https://colab.research.google.com/drive/1zvbruS1DvFrVgXjNouSrrF9-PphKLWWl?usp=sharing) 
 
-	- [Using our VQA system](https://colab.research.google.com/drive/16GOBndQuIBO-UfXdpPte-PXaZS2nsW1H?usp=sharing)
+	- Using our VQA system
+		- [Local](notebooks/using_our_vqa.ipynb)
+		- [Colab](https://colab.research.google.com/drive/16GOBndQuIBO-UfXdpPte-PXaZS2nsW1H?usp=sharing)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
