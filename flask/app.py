@@ -28,7 +28,7 @@ def process_text():
 
     try:
         response = openai.chat.completions.create(
-            model="gpt-4",
+            model="gpt-4o-mini",
             messages=[
                 {"role": "system", "content": "You are a helpful assistant. Keep all answers under 10 words."},
                 {"role": "user", "content": data['text']}
