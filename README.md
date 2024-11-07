@@ -41,6 +41,7 @@ This project contains several Jupyter notebooks each focusing on a specific topi
 	- **[Llava](https://colab.research.google.com/drive/1IwNAz1Ee4YUSRNCU-SOsa7FS8Q2vmpoL?usp=sharing)**: Using an open source mult-turn multimodal engine
 
 	- **[Diffusion (StableDiff + Flux)](https://colab.research.google.com/drive/1EtvcJGs_LdcQfSkbffKWKut8Zk7fccCX?usp=sharing)**: Generating images using diffusion models
+ 	- **[Llama 3.2-Vision-Instruct](https://colab.research.google.com/drive/1r6Nab2L7rYUBV5e8K8u8EFw98adJu5uh?usp=sharing)**: Meta's latest Llama model can take in images
 
 2. **Visual Q/A**
 	- [Download the data from my Dropbox here](https://www.dropbox.com/scl/fo/w6iyfox8gnflvm7g10n47/AB47L7tNEl2Q8eyemZa2GMA?rlkey=v9s8bv6cmjukykpilzimswar0&st=fbulzw4e&dl=0)
