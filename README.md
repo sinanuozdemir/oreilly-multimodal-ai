@@ -4,13 +4,13 @@ Welcome to the "[Multimodal AI Essentials](https://www.oreilly.com/live-events/m
 
 Much of the code in these sessions will be featured in the 2nd edition of [my latest book on LLMs](https://a.co/d/ckinlUl):
 
-<div style="text-align: center;">
-    <a href="https://www.amazon.com/quick-start-guide-language-models/dp/0138199191">
-        <img src="images/book.jpg" width="100" alt="A Quick Start Guide to LLMs">
+<div align="center">
+    <a href="https://a.co/d/ckinlUl">
+        <img src="images/book.jpg" width="150" alt="A Quick Start Guide to LLMs">
     </a>
 </div>
 
-so if you're itching for more, check it out and please leave a rating/review to tell me what you thought :)
+So if you're itching for more, check it out and please leave a rating/review to tell me what you thought :)
 
 For even more, check out my [Expert Playlist](https://learning.oreilly.com/playlists/2953f6c7-0e13-49ac-88e2-b951e11388de)!
 
