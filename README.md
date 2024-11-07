@@ -6,7 +6,7 @@ Much of the code in these sessions will be featured in the 2nd edition of [my la
 
 <div style="text-align: center;">
     <a href="https://www.amazon.com/quick-start-guide-language-models/dp/0138199191">
-        <img src="images/book.png" width="100" alt="A Quick Start Guide to LLMs">
+        <img src="images/book.jpg" width="100" alt="A Quick Start Guide to LLMs">
     </a>
 </div>
 
