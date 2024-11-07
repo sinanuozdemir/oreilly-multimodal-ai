@@ -2,7 +2,7 @@
 
 Welcome to the "[Multimodal AI Essentials](https://www.oreilly.com/live-events/multimodal-ai-essentials/0642572002285)" code repository! In this repo, we will learn how multimodal AI merges text, image, and audio for smarter models.
 
-Much of the code in these sessions will be featured in the 2nd edition of [my latest book on LLMs](https://www.amazon.com/quick-start-guide-language-models/dp/0138199191):
+Much of the code in these sessions will be featured in the 2nd edition of [my latest book on LLMs](https://a.co/d/ckinlUl):
 
 <div style="text-align: center;">
     <a href="https://www.amazon.com/quick-start-guide-language-models/dp/0138199191">
@@ -52,10 +52,13 @@ This project contains several Jupyter notebooks each focusing on a specific topi
 		- [Local](notebooks/using_our_vqa.ipynb)
 		- [Colab](https://colab.research.google.com/drive/16GOBndQuIBO-UfXdpPte-PXaZS2nsW1H?usp=sharing)
 
-3. **A Sample Twilio App for Voice Messaging with AI**
+3. **Using a CLIP model to build an image search system**
+	- [Colab](https://colab.research.google.com/drive/1aUz0FKQDSAyXyhRyvkkRsSy7S30mpRJc?usp=sharing)
+
+5. **(Time Permitting) A Sample Twilio App for Voice Messaging with AI**
 	- [Check out the README here](flask/README.md)
 
-4. **[(Time Permitting) Multimodal Agents](https://colab.research.google.com/drive/14jAlW2E7ya_aS1M6eUsuHciC1WvLfIif#scrollTo=EV8YKjGmPzqu)**
+6. **[(Time Permitting) Multimodal Agents](https://colab.research.google.com/drive/14jAlW2E7ya_aS1M6eUsuHciC1WvLfIif#scrollTo=EV8YKjGmPzqu)**
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
