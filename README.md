@@ -64,8 +64,6 @@ This project contains several Jupyter notebooks each focusing on a specific topi
 	- **[Fine-tuning SpeechT5 to speak Turkish](https://colab.research.google.com/drive/1ZWW2HjvywU48ExX22ZgkZ56MJ50uD4tS?usp=sharing)**: An example of proper SpeechT5 fine-tuning with 150k> high quality audio and transcrption examples
 	- **[Fine-tuning SpeechT5 to speak like Sinan](https://colab.research.google.com/drive/1CVdyEvBq-7uerFLOmKPolcT3Z8J2rhAm?usp=sharing)**: I grab videos of me from Youtube, extract the audio, run it through OpenAI's whisper to make my own dataset to train the model to sound more like me
 
-	- **[Dreambooth](https://colab.research.google.com/drive/1tQt1pE6l0MI
-
 5. **Multimodal Applications**
 
 	- [A Sample Twilio App for Voice Messaging with AI](flask/README.md)
