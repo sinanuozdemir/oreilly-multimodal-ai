@@ -1,1 +1,5 @@
 Flask/.env
+.env.local
+voice-to-voice/.github
+voice-to-voice/.gitignore
+notebooks/Computer Use.ipynb
