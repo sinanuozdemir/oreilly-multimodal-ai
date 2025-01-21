@@ -57,14 +57,12 @@ This project contains several Jupyter notebooks each focusing on a specific topi
 
 	- **[Intro to Diffusion (StableDiff + Flux)](https://colab.research.google.com/drive/1EtvcJGs_LdcQfSkbffKWKut8Zk7fccCX?usp=sharing)**: Generating images using diffusion models
 
-	- [**Dreambooth**](https://colab.research.google.com/drive/1tQt1pE6l0MI79W8ZX0MMu0YVmF2I0GB3?usp=sharing): Fine-tuning a stable difusion model to make images of yours truly! Ever wonder what I look like blonde? Me neither but AI gave me some ideas of what it would look like.
+	- **[Dreambooth](https://colab.research.google.com/drive/1tQt1pE6l0MI79W8ZX0MMu0YVmF2I0GB3?usp=sharing)**: Fine-tuning a stable difusion model to make images of yours truly! Ever wonder what I look like blonde? Me neither but AI gave me some ideas of what it would look like.
 
 4. **Texth to Speech** - Fine-tune text to speech models
 
 	- **[Fine-tuning SpeechT5 to speak Turkish](https://colab.research.google.com/drive/1ZWW2HjvywU48ExX22ZgkZ56MJ50uD4tS?usp=sharing)**: An example of proper SpeechT5 fine-tuning with 150k> high quality audio and transcrption examples
 	- **[Fine-tuning SpeechT5 to speak like Sinan](https://colab.research.google.com/drive/1CVdyEvBq-7uerFLOmKPolcT3Z8J2rhAm?usp=sharing)**: I grab videos of me from Youtube, extract the audio, run it through OpenAI's whisper to make my own dataset to train the model to sound more like me
-
-	- **[Dreambooth](https://colab.research.google.com/drive/1tQt1pE6l0MI
 
 5. **Multimodal Applications**
 
